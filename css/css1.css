@@ -5,7 +5,7 @@ body {
 	background-color:rgb(137,70,122);
 }
 
-hl{
+h1{
 	color:black;
 	text-align:center;
 	border-style:dashed;   
@@ -24,6 +24,11 @@ hl{
 .center{
 	margin-left: 70px;
 	margin-right: 100px;
+}
+
+.picture{
+	margin-bottom:100px;
+	margin-top:100px;
 }
 
 .pullquote{
