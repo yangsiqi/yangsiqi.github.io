@@ -1,0 +1,29 @@
+h1{
+	border-top-style:dashed;
+	border-bottom-style:dashed;
+	padding-bottom:50px;
+	padding-top:50px;
+	margin-left:400px;
+	margin-right:400px;
+	font-family: 'Lobster', cursive;
+	color:rgb(73, 84, 128);
+	text-align:center;
+}
+h2{
+	font-family: 'Ubuntu', sans-serif;
+}
+p {
+    word-spacing: 1.2em;
+    line-height: 1.5;
+}
+.picture{
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	
+}
+
+.news{
+	color:rgb(128, 65, 123);
+	font-family: 'Fjalla One', sans-serif;
+}
