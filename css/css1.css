@@ -17,7 +17,7 @@ h1{
 }
 
 #maincontent{
-	margin-left:70px;
+	margin-left:150px;
 	margin-right:150px;
 }
 	
@@ -36,5 +36,33 @@ h1{
 	color:red;
 	font-size:1.5em;
 	padding-left:50px;
-	
+}
+
+nav ul{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	background-color:white;
+	width:130px;
+	position:fixed;
+}
+
+nav ul li a{
+	display:block;
+	text-decoration:none;
+	padding-left:15px;
+	padding-top:5px;
+	padding-bottom:5px;
+	border-width:2px;
+	border-style:solid;
+}
+
+nav ul li a:hover{
+	background-color:black;
+	color:white;
+}
+
+.link-M{
+	background-color:pink;
+	color:white;
 }
