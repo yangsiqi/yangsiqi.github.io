@@ -12,15 +12,20 @@ h1{
 h2{
 	font-family: 'Ubuntu', sans-serif;
 }
-p {
-    word-spacing: 1.2em;
+p{
     line-height: 1.5;
+	font-size;1.5em;
+}
+
+#maincontent{
+	margin-left:200px;
+	margin-right:200px;
 }
 .picture{
 	margin-left: auto;
 	margin-right: auto;
 	display: block;
-	
+	width:800px;
 }
 
 .news{
